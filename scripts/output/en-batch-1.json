@@ -1,0 +1,352 @@
+{
+  "question_1": {
+    "question": "In Germany, people are allowed to openly say something against the government because ...",
+    "answer_a": "freedom of religion applies here.",
+    "answer_b": "people pay taxes.",
+    "answer_c": "people have the right to vote.",
+    "answer_d": "freedom of expression applies here."
+  },
+  "question_2": {
+    "question": "In Germany, parents can decide, until their child's 14th birthday, whether the child takes part in ...",
+    "answer_a": "history class.",
+    "answer_b": "religious education.",
+    "answer_c": "politics class.",
+    "answer_d": "language class."
+  },
+  "question_3": {
+    "question": "Germany is a state based on the rule of law (Rechtsstaat). What does this mean?",
+    "answer_a": "All residents and the state must abide by the law.",
+    "answer_b": "The state does not have to abide by the law.",
+    "answer_c": "Only Germans have to obey the law.",
+    "answer_d": "The courts make the laws."
+  },
+  "question_4": {
+    "question": "Which right is one of the basic rights in Germany?",
+    "answer_a": "The right to own weapons",
+    "answer_b": "The law of the fist (might makes right)",
+    "answer_c": "Freedom of expression",
+    "answer_d": "Vigilante justice"
+  },
+  "question_5": {
+    "question": "Elections in Germany are free. What does that mean?",
+    "answer_a": "You are allowed to accept money if you vote for a particular candidate in return.",
+    "answer_b": "Only people who have never been in prison are allowed to vote.",
+    "answer_c": "Voters may not be influenced or forced to vote a certain way, and must not suffer any disadvantages because of how they vote.",
+    "answer_d": "All eligible voters must vote."
+  },
+  "question_6": {
+    "question": "What is the German constitution called?",
+    "answer_a": "People's Law",
+    "answer_b": "Federal Law",
+    "answer_c": "German Law",
+    "answer_d": "Basic Law"
+  },
+  "question_7": {
+    "question": "Which right is one of the basic rights guaranteed by the German constitution? The right to ...",
+    "answer_a": "freedom of belief and conscience",
+    "answer_b": "entertainment",
+    "answer_c": "employment",
+    "answer_d": "housing"
+  },
+  "question_8": {
+    "question": "What is not stated in Germany's Basic Law?",
+    "answer_a": "Human dignity is inviolable.",
+    "answer_b": "Everyone should have the same amount of money.",
+    "answer_c": "Everyone may express their opinion.",
+    "answer_d": "Everyone is equal before the law."
+  },
+  "question_9": {
+    "question": "Which basic right in Germany applies only to foreign nationals? The basic right to ...",
+    "answer_a": "protection of the family",
+    "answer_b": "human dignity",
+    "answer_c": "asylum",
+    "answer_d": "freedom of expression"
+  },
+  "question_10": {
+    "question": "Which of the following is compatible with Germany's Basic Law?",
+    "answer_a": "corporal punishment",
+    "answer_b": "torture",
+    "answer_c": "the death penalty",
+    "answer_d": "a fine"
+  },
+  "question_11": {
+    "question": "What is the constitution of the Federal Republic of Germany called?",
+    "answer_a": "Basic Law",
+    "answer_b": "Federal Constitution",
+    "answer_c": "Legal Code",
+    "answer_d": "Constitutional Treaty"
+  },
+  "question_12": {
+    "question": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+    "answer_a": "Yes, if more than half of the members of the Bundestag vote in favor.",
+    "answer_b": "Yes, but two-thirds of the members of the Bundestag must vote in favor.",
+    "answer_c": "No, because freedom of the press is a basic right. It cannot be abolished.",
+    "answer_d": "No, because only the Bundesrat can abolish freedom of the press."
+  },
+  "question_13": {
+    "question": "In parliament, the term \"opposition\" refers to ...",
+    "answer_a": "the governing parties.",
+    "answer_b": "the parliamentary group with the most members.",
+    "answer_c": "all parties that cleared the 5% threshold in the last election.",
+    "answer_d": "all members of parliament who do not belong to the governing party/parties."
+  },
+  "question_14": {
+    "question": "Freedom of expression in Germany means that I ...",
+    "answer_a": "am allowed to insult passersby on the street.",
+    "answer_b": "can express my opinion on the internet.",
+    "answer_c": "am allowed to publicly display Nazi, Hamas, or Islamic State symbols.",
+    "answer_d": "may only express my opinion as long as I do not contradict the government."
+  },
+  "question_15": {
+    "question": "What does Germany's Basic Law prohibit?",
+    "answer_a": "military service",
+    "answer_b": "forced labor",
+    "answer_c": "free choice of occupation",
+    "answer_d": "working abroad"
+  },
+  "question_16": {
+    "question": "When is freedom of expression restricted in Germany?",
+    "answer_a": "when publicly spreading false claims about individuals",
+    "answer_b": "when expressing opinions about the Federal Government",
+    "answer_c": "when discussing religions",
+    "answer_d": "when criticizing the state"
+  },
+  "question_17": {
+    "question": "German law prohibits ...",
+    "answer_a": "freedom of expression for residents.",
+    "answer_b": "petitions by citizens.",
+    "answer_c": "freedom of assembly for residents.",
+    "answer_d": "unequal treatment of citizens by the state."
+  },
+  "question_18": {
+    "question": "Which basic right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "answer_a": "the inviolability of human dignity",
+    "answer_b": "the right to life",
+    "answer_c": "freedom of religion",
+    "answer_d": "freedom of expression"
+  },
+  "question_19": {
+    "question": "What is meant by the right to \"freedom of movement\" in Germany?",
+    "answer_a": "You may choose your own place of residence.",
+    "answer_b": "You can change your occupation.",
+    "answer_c": "You may choose a different religion.",
+    "answer_d": "You may only appear in public lightly dressed."
+  },
+  "question_20": {
+    "question": "A party in Germany pursues the goal of establishing a dictatorship. It is then ...",
+    "answer_a": "tolerant.",
+    "answer_b": "oriented toward the rule of law.",
+    "answer_c": "law-abiding.",
+    "answer_d": "unconstitutional."
+  },
+  "question_21": {
+    "question": "Which is the coat of arms of the Federal Republic of Germany?",
+    "answer_a": "Image 1",
+    "answer_b": "Image 2",
+    "answer_c": "Image 3",
+    "answer_d": "Image 4"
+  },
+  "question_22": {
+    "question": "What form of government does Germany have?",
+    "answer_a": "Monarchy",
+    "answer_b": "Dictatorship",
+    "answer_c": "Republic",
+    "answer_d": "Principality"
+  },
+  "question_23": {
+    "question": "In Germany, most working people are ...",
+    "answer_a": "employed in small family businesses.",
+    "answer_b": "working on a voluntary basis for a federal state.",
+    "answer_c": "self-employed with their own company.",
+    "answer_d": "employed by a company or a government agency."
+  },
+  "question_24": {
+    "question": "How many federal states does the Federal Republic of Germany have?",
+    "answer_a": "14",
+    "answer_b": "15",
+    "answer_c": "16",
+    "answer_d": "17"
+  },
+  "question_25": {
+    "question": "Which of the following is not a federal state of the Federal Republic of Germany?",
+    "answer_a": "Alsace-Lorraine",
+    "answer_b": "North Rhine-Westphalia",
+    "answer_c": "Mecklenburg-Western Pomerania",
+    "answer_d": "Saxony-Anhalt"
+  },
+  "question_26": {
+    "question": "Germany is ...",
+    "answer_a": "a communist republic.",
+    "answer_b": "a democratic and social federal state.",
+    "answer_c": "a capitalist and social monarchy.",
+    "answer_d": "a social and socialist federal state."
+  },
+  "question_27": {
+    "question": "Germany is ...",
+    "answer_a": "a socialist state.",
+    "answer_b": "a federal state.",
+    "answer_c": "a dictatorship.",
+    "answer_d": "a monarchy."
+  },
+  "question_28": {
+    "question": "Who elects the members of the Bundestag in Germany?",
+    "answer_a": "the military",
+    "answer_b": "the business community",
+    "answer_c": "the eligible voters",
+    "answer_d": "the administration"
+  },
+  "question_29": {
+    "question": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "answer_a": "Lion",
+    "answer_b": "Eagle",
+    "answer_c": "Bear",
+    "answer_d": "Horse"
+  },
+  "question_30": {
+    "question": "What is not a feature of our democracy?",
+    "answer_a": "regular elections",
+    "answer_b": "press censorship",
+    "answer_c": "freedom of expression",
+    "answer_d": "different parties"
+  },
+  "question_31": {
+    "question": "In Germany, the cooperation of parties to form a government is called a ...",
+    "answer_a": "unity.",
+    "answer_b": "coalition.",
+    "answer_c": "ministry.",
+    "answer_d": "parliamentary group."
+  },
+  "question_32": {
+    "question": "Which of the following is not a branch of state power in Germany?",
+    "answer_a": "Legislature",
+    "answer_b": "Government",
+    "answer_c": "Press",
+    "answer_d": "Judiciary"
+  },
+  "question_33": {
+    "question": "Which statement is correct? In Germany ...",
+    "answer_a": "the state and religious communities are separate from one another.",
+    "answer_b": "religious communities form the state.",
+    "answer_c": "the state is dependent on religious communities.",
+    "answer_d": "the state and religious communities form a single unit."
+  },
+  "question_34": {
+    "question": "What is Germany not?",
+    "answer_a": "a democracy",
+    "answer_b": "a state based on the rule of law",
+    "answer_c": "a monarchy",
+    "answer_d": "a welfare state"
+  },
+  "question_35": {
+    "question": "How does the German state finance social insurance?",
+    "answer_a": "Church tax",
+    "answer_b": "Social security contributions",
+    "answer_c": "Donations",
+    "answer_d": "Club membership fees"
+  },
+  "question_36": {
+    "question": "Which measure provides social security in Germany?",
+    "answer_a": "health insurance",
+    "answer_b": "car insurance",
+    "answer_c": "building insurance",
+    "answer_d": "liability insurance"
+  },
+  "question_37": {
+    "question": "What are the heads of government of most German federal states called?",
+    "answer_a": "First Minister",
+    "answer_b": "Prime Minister",
+    "answer_c": "Senator",
+    "answer_d": "Minister-President"
+  },
+  "question_38": {
+    "question": "The Federal Republic of Germany is a democratic and social ...",
+    "answer_a": "confederation of states.",
+    "answer_b": "federal state.",
+    "answer_c": "confederation.",
+    "answer_d": "centralized state."
+  },
+  "question_39": {
+    "question": "What does every German federal state have?",
+    "answer_a": "its own foreign minister",
+    "answer_b": "its own currency",
+    "answer_c": "its own army",
+    "answer_d": "its own government"
+  },
+  "question_40": {
+    "question": "What are the opening words of the German national anthem?",
+    "answer_a": "Völker, hört die Signale ... (Peoples, hear the signals ...)",
+    "answer_b": "Einigkeit und Recht und Freiheit ... (Unity and justice and freedom ...)",
+    "answer_c": "Freude schöner Götterfunken ... (Joy, beautiful spark of the divine ...)",
+    "answer_d": "Deutschland einig Vaterland ... (Germany, united fatherland ...)"
+  },
+  "question_41": {
+    "question": "Why are there more than one party in a democracy?",
+    "answer_a": "because this allows the different opinions of citizens to be represented",
+    "answer_b": "so that bribery in politics is limited",
+    "answer_c": "to prevent political demonstrations",
+    "answer_d": "to stimulate economic competition"
+  },
+  "question_42": {
+    "question": "Who passes a new law in Germany?",
+    "answer_a": "the government",
+    "answer_b": "the parliament",
+    "answer_c": "the courts",
+    "answer_d": "the police"
+  },
+  "question_43": {
+    "question": "When can a party be banned in Germany?",
+    "answer_a": "if its election campaign is too expensive",
+    "answer_b": "if it fights against the constitution",
+    "answer_c": "if it criticizes the head of state",
+    "answer_d": "if its platform proposes a new direction"
+  },
+  "question_44": {
+    "question": "As a citizen in Germany, who can you not vote for directly?",
+    "answer_a": "Members of the European Parliament",
+    "answer_b": "The Federal President",
+    "answer_c": "Members of a state parliament (Landtag)",
+    "answer_d": "Members of the Bundestag"
+  },
+  "question_45": {
+    "question": "Which type of insurance does long-term care insurance belong to?",
+    "answer_a": "Social insurance",
+    "answer_b": "Accident insurance",
+    "answer_c": "Home contents insurance",
+    "answer_d": "Liability and fire insurance"
+  },
+  "question_46": {
+    "question": "The German state has many responsibilities. Which of the following is one of them?",
+    "answer_a": "It builds roads and schools.",
+    "answer_b": "It sells food and clothing.",
+    "answer_c": "It provides all residents with free newspapers.",
+    "answer_d": "It manufactures cars and buses."
+  },
+  "question_47": {
+    "question": "The German state has many responsibilities. Which of the following is not one of them?",
+    "answer_a": "It pays for vacation trips for all citizens.",
+    "answer_b": "It pays child benefit.",
+    "answer_c": "It supports museums.",
+    "answer_d": "It supports athletes."
+  },
+  "question_48": {
+    "question": "Which body is not one of Germany's constitutional bodies?",
+    "answer_a": "the Bundesrat",
+    "answer_b": "the Federal President",
+    "answer_c": "the citizens' assembly",
+    "answer_d": "the government"
+  },
+  "question_49": {
+    "question": "Who determines school policy in Germany?",
+    "answer_a": "teachers",
+    "answer_b": "the federal states",
+    "answer_c": "the Ministry of Family Affairs",
+    "answer_d": "the universities"
+  },
+  "question_50": {
+    "question": "The economic system in Germany is called a ...",
+    "answer_a": "free centrally planned economy.",
+    "answer_b": "social market economy.",
+    "answer_c": "directed centrally planned economy.",
+    "answer_d": "planned economy."
+  }
+}

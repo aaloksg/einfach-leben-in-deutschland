@@ -1,0 +1,68 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:vue/essential",
+    "plugin:@typescript-eslint/recommended",
+    "@nuxtjs/eslint-config-typescript"
+  ],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "parser": "@typescript-eslint/parser",
+    "sourceType": "module"
+  },
+  "plugins": ["vue", "@typescript-eslint"],
+  "rules": {
+    "no-lonely-if": "off",
+    "no-return-assign": "off",
+    "vue/no-multiple-template-root": "off",
+    "no-use-before-define": "off",
+    "vue/no-v-text-v-html-on-component": "off",
+    "vue/singleline-html-element-content-newline": "off",
+    "vue/no-v-for-template-key": "off",
+    "vue/no-v-for-template-key-on-child": ["error", "always"],
+    "vue/max-attributes-per-line": [
+      "error",
+      {
+        "singleline": {
+          "max": 1
+        },
+        "multiline": {
+          "max": 1
+        }
+      }
+    ],
+    "no-labels": "off",
+    "no-unmodified-loop-condition": "off",
+    "vue/multi-word-component-names": "off",
+    "@typescript-eslint/no-unused-vars": [
+      "error",
+      {
+        "args": "all",
+        "argsIgnorePattern": "^_",
+        "caughtErrors": "all",
+        "caughtErrorsIgnorePattern": "^_",
+        "destructuredArrayIgnorePattern": "^_",
+        "varsIgnorePattern": "^_",
+        "ignoreRestSiblings": true
+      }
+    ],
+    "vue/valid-v-slot": 0,
+    "vue/html-self-closing": [
+      "error",
+      {
+        "html": {
+          "void": "always"
+        }
+      }
+    ],
+    "vue/html-indent": "off",
+    "indent": "off",
+    "arrow-parens": ["warn", "always"],
+    "space-before-function-paren": "off"
+  }
+}
