@@ -8,6 +8,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Index from '@/pages/index.vue'
 import Quiz from '@/pages/quiz.vue'
+import MockReports from '@/pages/mock-reports.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -19,6 +20,10 @@ const router = createRouter({
     {
       path: '/quiz',
       component: Quiz,
+    },
+    {
+      path: '/mock-reports',
+      component: MockReports,
     },
   ],
 })
