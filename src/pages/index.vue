@@ -67,6 +67,71 @@
 
           <v-divider class="my-6" />
 
+          <div class="text-h6 mb-3">Mock-Test (33 Fragen, 60 Minuten)</div>
+
+          <v-select
+            v-model="selectedMockState"
+            class="mb-3"
+            density="comfortable"
+            item-title="label"
+            item-value="code"
+            :items="store.stateOptions"
+            label="Bundesland für Mock-Test"
+            variant="outlined"
+          />
+
+          <template v-if="store.hasMockTestInProgress">
+            <v-alert
+              class="mb-3"
+              density="comfortable"
+              type="info"
+              variant="tonal"
+            >
+              Ein Mock-Test ist gerade aktiv.
+            </v-alert>
+
+            <v-btn
+              block
+              class="mb-3"
+              color="warning"
+              @click="continueMockTest"
+            >
+              Mock-Test fortsetzen
+            </v-btn>
+
+            <v-btn
+              block
+              class="mb-3"
+              color="error"
+              variant="outlined"
+              @click="startNewMockTest"
+            >
+              Neuen Mock-Test starten
+            </v-btn>
+          </template>
+
+          <template v-else>
+            <v-btn
+              block
+              class="mb-3"
+              color="warning"
+              @click="startNewMockTest"
+            >
+              Mock-Test starten
+            </v-btn>
+          </template>
+
+          <v-btn
+            block
+            class="mb-2"
+            variant="tonal"
+            @click="openMockReports"
+          >
+            Mock-Test-Berichte ansehen
+          </v-btn>
+
+          <v-divider class="my-6" />
+
           <v-select
             v-model="targetLanguage"
             density="comfortable"
@@ -104,6 +169,7 @@
 </template>
 
 <script lang="ts" setup>
+import type { GermanStateCode } from '../../types/question-answer-key'
 import { computed, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { useLebenStatusStore } from '@/stores/leben-status'
@@ -117,6 +183,11 @@ const languageOptions = [{ label: 'Englisch', value: 'en' }]
 const targetLanguage = computed({
   get: () => store.targetLanguage,
   set: (value: string) => store.setTargetLanguage(value)
+})
+
+const selectedMockState = computed({
+  get: () => store.selectedMockState,
+  set: (value: GermanStateCode) => store.setSelectedMockState(value)
 })
 
 function continueTest() {
@@ -136,5 +207,20 @@ function startAfresh() {
   store.startAfresh()
   confirmDialog.value = false
   router.push({ path: '/quiz', query: { q: 1 } })
+}
+
+function continueMockTest() {
+  const first = store.firstUnansweredMockQuestionNumber()
+  store.resumeMockTestTimer()
+  router.push({ path: '/quiz', query: { test: 'mock', q: first } })
+}
+
+function startNewMockTest() {
+  const test = store.startNewMockTest()
+  router.push({ path: '/quiz', query: { test: 'mock', q: test.questionNumbers[0] ?? 1 } })
+}
+
+function openMockReports() {
+  router.push('/mock-reports')
 }
 </script>
