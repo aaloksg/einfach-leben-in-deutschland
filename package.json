@@ -2,7 +2,7 @@
   "name": "einfach-leben-in-deutschland",
   "private": true,
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://aaloksg.github.io/einfach-leben-in-deutschland",
   "scripts": {
     "dev": "vite",

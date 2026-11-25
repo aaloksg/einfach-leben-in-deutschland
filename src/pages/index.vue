@@ -11,7 +11,15 @@
         class="pa-4"
         elevation="2"
       >
-        <v-card-title class="text-h5">Leben in Deutschland</v-card-title>
+        <v-card-title class="text-h5">
+          Leben in Deutschland
+          <span
+            class="text-grey ml-1 opacity-70"
+            style="font-size: 1rem; font-weight: normal; line-height: 1.75; letter-spacing: 0.009375em"
+          >
+            (v{{ appVersion }})
+          </span>
+        </v-card-title>
         <v-card-text>
           <p>
             Übe alle 300 Fragen des Einbürgerungstests „Leben in Deutschland“. Beantworte die Fragen der Reihe nach oder
@@ -177,6 +185,7 @@ import { useLebenStatusStore } from '@/stores/leben-status'
 const router = useRouter()
 const store = useLebenStatusStore()
 const confirmDialog = ref(false)
+const appVersion = __APP_VERSION__
 
 const languageOptions = [{ label: 'Englisch', value: 'en' }]
 
