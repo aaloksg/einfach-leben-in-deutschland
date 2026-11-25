@@ -1342,7 +1342,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 59,
       "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
-      "answer": "b",
+      "answer": "d",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -1503,7 +1503,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 66,
       "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
-      "answer": "d",
+      "answer": "a",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -2194,7 +2194,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 96,
       "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
-      "answer": "b",
+      "answer": "d",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -2539,7 +2539,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 111,
       "question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
-      "answer": "a",
+      "answer": "d",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -3414,7 +3414,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 149,
       "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
-      "answer": "b",
+      "answer": "c",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -4175,7 +4175,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 182,
       "question": "Wie heißt das jüdische Gebetshaus?",
-      "answer": "a",
+      "answer": "c",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -4221,7 +4221,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 184,
       "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
-      "answer": "c",
+      "answer": "a",
       "answerOptions": {
         "a": {
           "value": "a",
@@ -6618,7 +6618,7 @@ const questionAnswerKey: QuestionAnswerKey = {
     {
       "questionNumber": 288,
       "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
-      "answer": "c",
+      "answer": "b",
       "answerOptions": {
         "a": {
           "value": "a",
